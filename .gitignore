@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+.DS_Store
+.tools/
+
+CLAUDE.md
+CLAUDE.local.md
+NOTES.md
+.claude/
+.playwright-mcp/
